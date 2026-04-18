@@ -42,7 +42,7 @@ spoken_digit_recognition/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/spoken-digit-recognition.git
+[git clone https://github.com/<your-username>/spoken-digit-recognition.git](https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/M25DE1041_M25DE1068_M25DE1069)
 cd spoken-digit-recognition
 ```
 
