@@ -43,7 +43,7 @@ spoken_digit_recognition/
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Pranav-Sri-Vasthav-Tenali-Gnana/M25DE1041_M25DE1068_M25DE1069
-cd spoken-digit-recognition
+cd M25DE1041_M25DE1068_M25DE1069
 ```
 
 ### 2. Create a virtual environment (recommended)
